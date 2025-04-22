@@ -1,0 +1,12 @@
+# Virtual env
+env/
+__pycache__/
+*.pyc
+
+# DB + fichiers inutiles
+*.sqlite3
+*.log
+
+# VSCode et configs
+.vscode/
+*.env
